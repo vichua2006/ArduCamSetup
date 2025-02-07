@@ -1,0 +1,3 @@
+ArducamEvkSDK
+opencv-python
+arducam_rgbir_remosaic
